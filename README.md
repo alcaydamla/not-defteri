@@ -3,12 +3,12 @@
 Bu proje, kullanıcıların **not ekleyip, silebildiği ve güncelleyebildiği** bir **not defteri uygulamasıdır**.  
 MERN Stack (**MongoDB, Express, React, Node.js**) kullanılarak geliştirilmiştir.
 
-## 🚀 Teknolojiler  
+## Teknolojiler  
 - **Frontend:** React.js, Ant Design  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
 
-## 💻 Kurulum  
+## Kurulum  
 Projeyi kendi bilgisayarında çalıştırmak için:
 
 ```bash
